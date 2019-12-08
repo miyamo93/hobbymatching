@@ -3,3 +3,13 @@
   width: 100vw;
   height: 10vh;
 }
+
+.main-body{
+  .main-body__sub{
+    .side-bar{
+      height: calc(100vh - 10vh);
+      width: 20vw;
+      background: lightcyan;
+    }
+  }
+}
